@@ -5,10 +5,6 @@
 package pms;
 import java.sql.ResultSet;
 
-/**
- *
- * @author GAVASKAR S
- */
 public class usersetting extends dbclass {
 public String id;
 public String username;
